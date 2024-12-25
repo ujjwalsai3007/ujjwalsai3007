@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ujjwal Sai
 
-<!--
-**ujjwalsai3007/ujjwalsai3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 **Aspiring Android Developer** | **Software Enthusiast**
+- 🎓 **Recent Graduate (May 2024)** with a passion for building user-friendly applications.
+- 💡 **Currently Learning**: Android Development with Kotlin, Jetpack Compose, and Data Structures & Algorithms.
+- 💼 Open to opportunities in startups, especially in **mobile app development** and **emerging technologies**.
+- 🌱 **Goal**: To build innovative apps and eventually create a tech company.
+
+---
+
+## 💻 Technical Skills
+- **Programming Languages**: 
+  - Kotlin, Java, Python
+- **Tools & Technologies**:
+  - Android Studio, Git, GitHub, Jetpack Compose
+- **Data Visualization**:
+  - Tableau, Power BI, SQL
+- **Other Interests**:
+  - UI/UX design, open-source contributions, and creative problem-solving.
