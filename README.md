@@ -17,7 +17,8 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Programming Languages**: 
   - Kotlin, Java, Python
 - **Tools & Technologies**:
-  - Android Studio, Git, GitHub, Jetpack Compose
+  - Android Studio, XML, MVVM Architecture,Material Design, XML Layouts, Constraint Layout, RecyclerView,Retrofit, RxJava, Google Firebase (Authentication, Firestore, Realtime
+Database),OkHttp,Git/GitHub,PoweBI
 - **Data Visualization**:
   - Tableau, Power BI, SQL
 - **Other Interests**:
