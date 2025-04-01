@@ -72,17 +72,17 @@ Replace <ujjwalsai3007> with your actual GitHub username.
 
 <p align="center">
   <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<ujjwalsai3007>&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<ujjwalsai3007>&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<ujjwalsai3007>&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
