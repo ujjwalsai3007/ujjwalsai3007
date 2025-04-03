@@ -12,8 +12,8 @@ Replace <ujjwalsai3007> with your actual GitHub username.
 </h1>
 
 <p align="center">
-  <em>Aspiring Android Developer & Software Enthusiast</em><br/>
-  <em>Open to opportunities in mobile app development and emerging technologies</em>
+  <em>💡 Android Developer | Passionate About Crafting Exceptional Mobile Experiences</em><br/>
+  <em>Open to impactful opportunities in Android, Kotlin, and modern mobile technologies</em>
 </p>
 
 ---
