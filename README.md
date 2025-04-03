@@ -30,7 +30,7 @@ Replace <ujjwalsai3007> with your actual GitHub username.
 - 📊 Familiar with **Version Control (Git & GitHub)**, **Clean Architecture**, and **Dependency Injection (Hilt/Koin)**.  
 - 🌐 Open-source enthusiast – actively exploring contributions to Android-based projects.  
 - 💡 Passionate about crafting seamless user experiences, optimizing app performance, and constantly learning.  
-- ✨ Inspired by apps like **Cred**, **Zomato**, and **Twiggy**, I aim to build products that users genuinely love.
+- ✨ Inspired by apps like **Cred**, **Zomato**, and **Swiggy**, I aim to build products that users genuinely love.
 
 
 
