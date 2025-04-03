@@ -17,12 +17,21 @@ Replace <ujjwalsai3007> with your actual GitHub username.
 </p>
 
 ---
-
 ## 🚀 About Me
-- 🔭 Recent Graduate (May 2024) with a keen interest in mobile development.
-- 🌱 **Currently Learning**: 
-  - Android Development with Kotlin & Jetpack Compose 
-- 💻 I love building **user-friendly apps** that solve real-world problems.
+
+- 🎓 Recent Computer Science Graduate (May 2024) with a strong passion for building mobile experiences.  
+- 💼 **Aspiring Android Developer** actively working on production-ready apps using the modern Android tech stack.  
+- 🌱 **Currently Deep Diving Into**:  
+  - Kotlin, Jetpack Compose, MVVM Architecture  
+  - Room Database, Retrofit, Coroutines, Firebase  
+- 📱 I love creating **intuitive, responsive, and scalable mobile applications** that solve real-world problems.  
+- 🔧 Skilled in transforming UI/UX designs into clean, functional apps using **XML and Jetpack Compose**.  
+- 🚀 Experienced in integrating REST APIs, managing local data storage, and writing reusable components.  
+- 📊 Familiar with **Version Control (Git & GitHub)**, **Clean Architecture**, and **Dependency Injection (Hilt/Koin)**.  
+- 🌐 Open-source enthusiast – actively exploring contributions to Android-based projects.  
+- 💡 Passionate about crafting seamless user experiences, optimizing app performance, and constantly learning.  
+- ✨ Inspired by apps like **Cred**, **Zomato**, and **Twiggy**, I aim to build products that users genuinely love.
+
 
 
 ---
