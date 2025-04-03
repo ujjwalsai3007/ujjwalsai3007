@@ -3,6 +3,9 @@ Feel free to remove any sections you don’t want.
 Replace <ujjwalsai3007> with your actual GitHub username.
 -->
 
+![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/e1208ae8-75b9-4958-9494-284309bc7703)
+
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hey there! I'm Ujjwal Sai
