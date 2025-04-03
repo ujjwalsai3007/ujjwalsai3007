@@ -22,10 +22,8 @@ Replace <ujjwalsai3007> with your actual GitHub username.
 - 🔭 Recent Graduate (May 2024) with a keen interest in mobile development.
 - 🌱 **Currently Learning**: 
   - Android Development with Kotlin & Jetpack Compose 
-  - Data Structures & Algorithms
 - 💻 I love building **user-friendly apps** that solve real-world problems.
-- 💼 **Goal**: To create innovative apps and eventually start my own tech company!
-- 🎨 Enthusiastic about **UI/UX design, open-source**, and **creative problem-solving**.
+
 
 ---
 
