@@ -42,33 +42,63 @@ Replace <ujjwalsai3007> with your actual GitHub username.
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+## 📱 Android Development Tech Stack
 
-### Android Development
-- **Core Languages**: Kotlin & Java  
-- **UI Frameworks**:  
-  - **Jetpack Compose** (for modern UI development)  
-  - XML Layouts (ConstraintLayout, LinearLayout, FrameLayout, etc.)  
-- **Architectures & Patterns**:  
-  - **MVVM**, MVP, MVI, Clean Architecture  
-- **Android Jetpack Libraries**:  
-  - **ViewModel**, LiveData, Room, Navigation, WorkManager, Paging, Data Binding  
-- **Networking**:  
-  - **Retrofit**, OkHttp, Volley  
-- **Firebase Suite**:  
-  - Authentication, Firestore, Realtime Database, Cloud Functions  
-- **Third-Party Libraries**:  
-  - **Glide/Picasso/Coil** (for image loading), Lottie (for animations)  
-- **Asynchronous Programming**:  
-  - **Kotlin Coroutines**, RxJava  
-- **Testing**:  
-  - **JUnit**, Mockito, Espresso, Robolectric  
-- **Gradle** for build automation  
-- **Version Control**:  
-  - **Git** & GitHub  
-- **Debugging & Profiling**:  
-  - Android Profiler (CPU, Memory), Logcat, Crashlytics (Firebase)  
-- **Release & Deployment**:  
-  - Google Play Console (signing, bundling, publishing)  
+<table>
+  <tr>
+    <td><strong>💻 Core Languages</strong></td>
+    <td>Kotlin, Java</td>
+  </tr>
+  <tr>
+    <td><strong>🎨 UI Frameworks</strong></td>
+    <td>Jetpack Compose, XML Layouts (ConstraintLayout, LinearLayout, FrameLayout)</td>
+  </tr>
+  <tr>
+    <td><strong>🏗 Architectures</strong></td>
+    <td>MVVM, MVP, MVI, Clean Architecture</td>
+  </tr>
+  <tr>
+    <td><strong>📦 Jetpack Libraries</strong></td>
+    <td>ViewModel, LiveData, Room, Navigation, WorkManager, Paging, Data Binding</td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Networking</strong></td>
+    <td>Retrofit, OkHttp, Volley</td>
+  </tr>
+  <tr>
+    <td><strong>🔥 Firebase Suite</strong></td>
+    <td>Authentication, Firestore, Realtime Database, Cloud Functions</td>
+  </tr>
+  <tr>
+    <td><strong>🧩 3rd-Party Libraries</strong></td>
+    <td>Glide, Picasso, Coil, Lottie</td>
+  </tr>
+  <tr>
+    <td><strong>🔄 Async Programming</strong></td>
+    <td>Kotlin Coroutines, RxJava</td>
+  </tr>
+  <tr>
+    <td><strong>🧪 Testing</strong></td>
+    <td>JUnit, Mockito, Espresso, Robolectric</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Build System</strong></td>
+    <td>Gradle</td>
+  </tr>
+  <tr>
+    <td><strong>🔧 Version Control</strong></td>
+    <td>Git & GitHub</td>
+  </tr>
+  <tr>
+    <td><strong>🛠 Debugging</strong></td>
+    <td>Android Profiler, Logcat, Firebase Crashlytics</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 Release & Deployment</strong></td>
+    <td>Google Play Console (signing, bundling, publishing)</td>
+  </tr>
+</table>
+
 
 ### Data Visualization & Other Interests
 - **Data Viz Tools**: Tableau, Power BI, SQL  
